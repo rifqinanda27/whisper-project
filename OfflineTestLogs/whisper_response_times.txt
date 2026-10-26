@@ -1,0 +1,23 @@
+﻿[#1 | 2026-10-26 13:27:18] Type=OfflineEN_GPU | Lang=EN | Clip=cmd_01_up_right_jump (2.99s) | ResponseTime=102 ms (RTF=0.034x) | Transcript="Up, right, jump," | Action=UP (+Y) -> RIGHT (+X) -> JUMP
+[#2 | 2026-10-26 13:27:18] Type=OfflineEN_GPU | Lang=EN | Clip=cmd_02_left_forward_spin (3.36s) | ResponseTime=72 ms (RTF=0.021x) | Transcript="Left, forward, spin." | Action=LEFT (-X) -> FORWARD (+Z) -> SPIN ON
+[#3 | 2026-10-26 13:27:18] Type=OfflineEN_GPU | Lang=EN | Clip=cmd_03_bigger_green (2.28s) | ResponseTime=64 ms (RTF=0.028x) | Transcript="Bigger, green." | Action=SCALE UP -> COLOR GREEN
+[#4 | 2026-10-26 13:27:18] Type=OfflineEN_GPU | Lang=EN | Clip=cmd_04_smaller_red_stop (3.40s) | ResponseTime=82 ms (RTF=0.024x) | Transcript="Smaller, red, stop." | Action=SCALE DOWN -> COLOR RED -> STOP
+[#5 | 2026-10-26 13:27:19] Type=OfflineEN_GPU | Lang=EN | Clip=cmd_05_down_back_reset (4.22s) | ResponseTime=94 ms (RTF=0.022x) | Transcript="Down, back, blue, reset." | Action=DOWN (-Y) -> BACK (-Z) -> COLOR BLUE -> RESET
+[#6 | 2026-10-26 13:27:19] Type=OfflineEN_GPU | Lang=EN | Clip=jfk (11.00s) | ResponseTime=271 ms (RTF=0.025x) | Transcript="And so, my fellow Americans, ask not what your country can do for you, ask what you can do for your country." | Action=SAMPLE DEMO (JUMP + SPIN)
+[#1 | 2026-10-26 13:29:33] Type=MicOffline | Lang=EN | Clip=Microphone (5.30s) | ResponseTime=719 ms (RTF=0.136x) | Transcript="Up, left, forward, spin, smaller." | Action=UP (+Y) -> LEFT (-X) -> FORWARD (+Z) -> SPIN ON -> SCALE DOWN
+[#2 | 2026-10-26 13:29:43] Type=MicOffline | Lang=EN | Clip=Microphone (4.47s) | ResponseTime=724 ms (RTF=0.162x) | Transcript="Right, bigger, spin." | Action=RIGHT (+X) -> SCALE UP -> SPIN ON
+[#3 | 2026-10-26 13:29:49] Type=MicOffline | Lang=EN | Clip=Microphone (3.61s) | ResponseTime=646 ms (RTF=0.179x) | Transcript="Right, bigger, green." | Action=RIGHT (+X) -> SCALE UP -> COLOR GREEN
+[#4 | 2026-10-26 13:29:55] Type=MicOffline | Lang=EN | Clip=Microphone (2.96s) | ResponseTime=2150 ms (RTF=0.726x) | Transcript="Free set." | Action=NONE
+[#5 | 2026-10-26 13:30:00] Type=MicOffline | Lang=EN | Clip=Microphone (1.95s) | ResponseTime=803 ms (RTF=0.412x) | Transcript="Re-set." | Action=NONE
+[#6 | 2026-10-26 13:30:08] Type=MicOffline | Lang=EN | Clip=Microphone (2.96s) | ResponseTime=2351 ms (RTF=0.794x) | Transcript="reset." | Action=RESET
+[#1 | 2026-10-26 13:53:16] Type=MicOffline | Lang=EN | Clip=Microphone (4.80s) | ResponseTime=735 ms (RTF=0.153x) | Transcript="Right, forward, bigger, right." | Action=RIGHT (+X) -> FORWARD (+Z) -> SCALE UP -> RIGHT (+X)
+[#2 | 2026-10-26 13:53:21] Type=MicOffline | Lang=EN | Clip=Microphone (3.00s) | ResponseTime=726 ms (RTF=0.242x) | Transcript="Left, back, where." | Action=LEFT (-X) -> BACK (-Z)
+[#3 | 2026-10-26 13:53:33] Type=MicOffline | Lang=EN | Clip=Microphone (2.77s) | ResponseTime=6635 ms (RTF=2.395x) | Transcript="Up, spin, spin." | Action=UP (+Y) -> SPIN ON -> SPIN ON
+[#4 | 2026-10-26 13:53:42] Type=MicOffline | Lang=EN | Clip=Microphone (4.92s) | ResponseTime=904 ms (RTF=0.184x) | Transcript="Small, red, jump." | Action=SCALE DOWN -> COLOR RED -> JUMP
+[#5 | 2026-10-26 13:53:48] Type=MicOffline | Lang=EN | Clip=Microphone (2.04s) | ResponseTime=909 ms (RTF=0.446x) | Transcript="Reset." | Action=RESET
+[#1 | 2026-10-26 13:54:42] Type=BenchmarkOffline | Lang=EN | Clip=cmd_01_up_right_jump (2.99s) | ResponseTime=772 ms (RTF=0.259x) | Transcript="Up, right, jump," | Action=UP (+Y) -> RIGHT (+X) -> JUMP
+[#2 | 2026-10-26 13:54:42] Type=BenchmarkOffline | Lang=EN | Clip=cmd_02_left_forward_spin (3.36s) | ResponseTime=694 ms (RTF=0.207x) | Transcript="Left, forward, spin." | Action=LEFT (-X) -> FORWARD (+Z) -> SPIN ON
+[#3 | 2026-10-26 13:54:43] Type=BenchmarkOffline | Lang=EN | Clip=cmd_03_bigger_green (2.28s) | ResponseTime=724 ms (RTF=0.318x) | Transcript="Bigger, green." | Action=SCALE UP -> COLOR GREEN
+[#4 | 2026-10-26 13:54:44] Type=BenchmarkOffline | Lang=EN | Clip=cmd_04_smaller_red_stop (3.40s) | ResponseTime=821 ms (RTF=0.242x) | Transcript="Smaller, red, stop." | Action=SCALE DOWN -> COLOR RED -> STOP
+[#5 | 2026-10-26 13:54:45] Type=BenchmarkOffline | Lang=EN | Clip=cmd_05_down_back_reset (4.22s) | ResponseTime=837 ms (RTF=0.198x) | Transcript="Down, back, blue, reset." | Action=DOWN (-Y) -> BACK (-Z) -> COLOR BLUE -> RESET
+[#6 | 2026-10-26 13:54:46] Type=BenchmarkOffline | Lang=EN | Clip=jfk (11.00s) | ResponseTime=854 ms (RTF=0.078x) | Transcript="And so, my fellow Americans, ask not what your country can do for you, ask what you can do for your country." | Action=SAMPLE DEMO (JUMP + SPIN)
